@@ -17,3 +17,6 @@ ppt:이채영, 서지원
 시각화:김영광,이준희
 
 사용한 데이터: 제주도 교통량 예측
+
+머신러닝 데이터
+참조: https://drive.google.com/drive/folders/1-Nmn4hKth3DKzxKliDQqOO9odsMWbCiB?usp=sharing
